@@ -1,1 +1,2 @@
-# bluevest
+# BlueVest
+Blueberry harvest management application
